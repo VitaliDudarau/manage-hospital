@@ -1,0 +1,40 @@
+body {
+    color: blue;
+}
+
+.header{
+    background-color: #dd0dc2;
+    height: 100px;
+    font-style: oblique;
+
+}
+
+.menu {
+    background-color: #2051e5;
+    height: 650px;
+    width: 250px;
+    float: left;
+    border-radius: 30px;
+    color: #4df20c;
+}
+
+.info {
+    height:650px;
+    background-color: #707dcc;
+    background-size: cover;
+    margin-left: 250px;
+    color: #ed840b;
+}
+
+.footer {
+    height:580px;
+    background-color: #00ff04;
+}
+
+h1 {
+    color: rgba(3, 9, 55, 0.98);
+}
+
+ins:hover {
+    color: aqua;
+}
