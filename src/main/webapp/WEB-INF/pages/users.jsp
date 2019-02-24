@@ -27,6 +27,14 @@
     <div class="menu">
         This is page JSP!
         <c:out value="${16+64*2}" />
+        <table>
+            <tr>
+                <td>
+                    <a href="home.jsp">Расписание работы врачей</a>
+                </td>
+            </tr>
+        </table>
+
     </div>
 
     <div class="info">
