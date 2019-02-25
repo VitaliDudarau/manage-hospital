@@ -30,7 +30,7 @@
         <table>
             <tr>
                 <td>
-                    <a href="home.jsp">Расписание работы врачей</a>
+                    <a href="pages/home.jsp">Расписание работы врачей</a>
                 </td>
             </tr>
         </table>
